@@ -1,0 +1,39 @@
+
+<head>
+<title> Fox Tails</title>
+</head>
+
+body {
+height: 100%;
+margin: 0;
+text-align: center;
+width: 100%;
+}
+
+h1{
+font-size: 32px;
+font-family: Palatino, 'Palatino Linotype', serif;
+color: rgb(121,149,117); 
+}
+h2 {
+font-size: 32px;
+font-family: Palatino, 'Palatino Linotype', serif;
+}
+h3 {
+font-size: 32px;
+font-family: Palatino, 'Palatino Linotype', serif;
+}
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+p {
+font-size: 25px;
+font-family: Palatino, 'Palatino Linotype', serif;
+color: rgb(121,149,117); 
+
+</body>
+         
