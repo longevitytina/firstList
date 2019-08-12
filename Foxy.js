@@ -16,6 +16,19 @@ alert('Boo!')
 alert('Boo!')
 boo
 
+//variables
+var animalType = 'fox';
+var numOfKits = 10
+console.log(animalType);
+console.log(numOfKits);
+
+let furType = red;
+furType = white;
+console.log(furType);
+
+const entree = 'Enchiladas';
+console.log(entree);
+const testing;
 
 
 
