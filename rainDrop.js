@@ -18,7 +18,6 @@ draw = function() {
     
 };
 
-
 //1.What do I want to repeat?
 //raindrops
 //2.what do I want to change each time?
