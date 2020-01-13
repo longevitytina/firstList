@@ -48,7 +48,7 @@
     questions[n].checkAnswer(answer);
 
 })();
-*******************************************/
+*******************************************
 
 (function() {
 
@@ -121,3 +121,52 @@
 })();
 
 
+************************************************/
+
+//Write a program that counts from 1 to 20 in fizzbuzz fashion.
+//To do so, loop from 1 to 20 (inclusive). Each time through,
+// if the number is evenly divisible by 3, say ‘fizz’. 
+// If the number is evenly divisible by 5, say ‘buzz’. 
+// If the number is evenly divisible by both 3 and 5, say ‘fizzbuzz’. 
+// Otherwise, say the number.
+//
+
+//use random math function to select 1 to 20
+//use a for loop, if else statments to print either fizz, buzz, fizzbuzz or number
+//evenly divisible by 3 = divide by 3 === whole number
+
+// var num = Math.floor(Math.random()* (20 - 1 + 1) + 1);
+
+// function fizzbuzz(){
+//     if (num % 3){
+//         console.log( 'fizz')
+//     } else if (num % 5){
+//         console.log( 'buzz')
+//     } else if (num === 15){
+//         console.log( 'fizzbuzz')
+//     } else {
+//         console.log()
+//     }
+
+// }
+// fizzbuzz(num);
+//********************************************************** */
+//Given a word, return True if that word contains only unique characters. Return False otherwise.
+// has_unique_chars("Monday")
+// True
+
+// >>> has_unique_chars("Moonday")
+// False
+
+// >>> has_unique_chars("")
+// True
+// Uppercase and lowercase letters should be considered separately:
+
+// >>> has_unique_chars("Bob")
+// True
+
+function hasUniqueChars(word){
+//if word has no repeating characters, return true
+//if word has repeating character, return false
+
+}
